@@ -1,5 +1,5 @@
 {
-  "name": "parcel-on-ip",
+  "name": "parcel-on-network",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -15,5 +15,8 @@
     "ip": "^1.1.5",
     "qrcode-terminal": "^0.12.0",
     "yargs": "^17.2.1"
+  },
+  "bin": {
+    "pon":"./bin/index.js"
   }
 }

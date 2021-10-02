@@ -1,6 +1,6 @@
 {
   "name": "parcel-on-network",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "directories": {
@@ -11,7 +11,6 @@
   },
   "author": "",
   "license": "ISC",
-
   "dependencies": {
     "ip": "^1.1.5",
     "jest": "^27.2.4",

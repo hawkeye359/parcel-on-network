@@ -6,16 +6,13 @@
   "directories": {
     "lib": "lib"
   },
-  "scripts": {
-    "test": "jest"
-  },
+  "scripts": {},
   "author": "",
   "license": "ISC",
   "dependencies": {
     "ip": "^1.1.5",
-    "jest": "^27.2.4",
-    "qrcode-terminal": "^0.12.0",
-    "yargs": "^17.2.1"
+    "minimist": "^1.2.5",
+    "qrcode-terminal": "^0.12.0"
   },
   "bin": {
     "pon": "./bin/index.js"

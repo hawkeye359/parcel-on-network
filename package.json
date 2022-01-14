@@ -6,7 +6,9 @@
   "directories": {
     "lib": "lib"
   },
-  "scripts": {},
+  "scripts": {
+    "test": "echo no test specified"
+  },
   "author": "",
   "license": "ISC",
   "dependencies": {

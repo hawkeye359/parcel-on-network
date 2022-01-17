@@ -1,8 +1,8 @@
 # GETTING STARTED
 
 (Install this package locally in your project)
-(This package requires parcel to be instlled locally in your project)
-By default parcel dosent support automated ip detection for hosting on local network.
+(This package requires parcel to be installed locally in your project)
+By default parcel dosen't support automated ip detection for hosting on local network.
 This package aims to solve that problem by automatically detecting the local network ip. If not found it will fall back on localhost which is 127.0.0.1
 by default it will look for index.html in src folder (src/index.html)
 

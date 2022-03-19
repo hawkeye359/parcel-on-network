@@ -1,5 +1,5 @@
+![npm](https://img.shields.io/npm/v/parcel-on-network?style=flat-square)
 # GETTING STARTED
-
 (Install this package locally in your project)
 (This package requires parcel to be installed locally in your project)
 By default parcel dosen't support automated ip detection for hosting on local network.
